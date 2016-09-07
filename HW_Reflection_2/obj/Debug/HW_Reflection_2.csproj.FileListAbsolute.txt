@@ -1,0 +1,9 @@
+D:\!learning\backbone\tri-wbn\HW_Reflection_2\HW_Reflection_2\bin\Debug\HW_Reflection_2.exe.config
+D:\!learning\backbone\tri-wbn\HW_Reflection_2\HW_Reflection_2\bin\Debug\HW_Reflection_2.exe
+D:\!learning\backbone\tri-wbn\HW_Reflection_2\HW_Reflection_2\bin\Debug\HW_Reflection_2.pdb
+D:\!learning\backbone\tri-wbn\HW_Reflection_2\HW_Reflection_2\obj\Debug\HW_Reflection_2.csprojResolveAssemblyReference.cache
+D:\!learning\backbone\tri-wbn\HW_Reflection_2\HW_Reflection_2\obj\Debug\HW_Reflection_2.exe
+D:\!learning\backbone\tri-wbn\HW_Reflection_2\HW_Reflection_2\obj\Debug\HW_Reflection_2.pdb
+D:\!learning\!Mentroing D1-D2\reflection module\HW\HW_Reflection_2\HW_Reflection_2\bin\Debug\HW_Reflection_2.exe.config
+D:\!learning\!Mentroing D1-D2\reflection module\HW\HW_Reflection_2\HW_Reflection_2\obj\Debug\HW_Reflection_2.exe
+D:\!learning\!Mentroing D1-D2\reflection module\HW\HW_Reflection_2\HW_Reflection_2\obj\Debug\HW_Reflection_2.pdb
